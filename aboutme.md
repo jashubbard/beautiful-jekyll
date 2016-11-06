@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Jason Hubbard Information
+subtitle: Jason Hubbard 
 ---
 
 I am currently a doctoral candidate at the University of Oregon, working in Ulrich Mayr’s Cognitive Dynamics Lab. Broadly, I am interested in the mechanisms underlying executive control and decision making, and the specific ways these change over the lifespan. I also have a specific interest in Neuroeconomics and altruistic decision making. Recent work in our lab has identified a "general benevolence" dimension that reflects a pure concern for others' well-being, a dimension that appears to increase across the lifespan. 
