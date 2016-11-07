@@ -1,7 +1,6 @@
 ---
 layout: page
-title:  Curriculum Vitae
-subtitle: CV
+title:  CV
 ---
 
 **Jason Hubbard**
@@ -213,7 +212,7 @@ Decision Making
 
 -   itrackR – an R package for high-level analysis of eye tracking data
     from Eyelink eye trackers <https://github.com/jashubbard/itrackR>
-    
+
 -   iTrack – a Matlab package for high-level analysis of eye tracking
     data from Eyelink eye trackers
     <https://github.com/jashubbard/iTrack>
