@@ -11,7 +11,7 @@ title:  CV
 **Education**
 
 |      |     |    |    |
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | 2011 - Present | PhD (in progress) | Cognitive Neuroscience | University of Oregon|
 |2011 - 2012 |  Master of Science | Cognitive Neuroscience | University of Oregon |
 |2007 - 2011|  Master of Arts | Psychological Research | San Francisco State University |
@@ -19,7 +19,7 @@ title:  CV
 
 **Research Experience**
 
-|      |     |    |    |
+|      |     |    | 
 | --- | --- | --- | --- |
 |September 2011 – Present | *Graduate Researcher* | Cognitive Dynamics Lab, University of Oregon |
 |July 2009 – 2011 | *Graduate Researcher* | Action and Consciousness Laboratory, San Francisco State University |
