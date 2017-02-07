@@ -39,28 +39,28 @@ expenses grant.
 
 **Publications**
  
- Hubbard, J., Kuhns, D., Schäfer, T. A., & Mayr, U. (2016). Is Conflict Adaptation Due to Active Regulation or Passive Carry-Over? Evidence from Eye Movements*. Journal of experimental psychology. Learning, memory, and cognition*.
+ **Hubbard, J.**, Kuhns, D., Schäfer, T. A., & Mayr, U. (2016). Is Conflict Adaptation Due to Active Regulation or Passive Carry-Over? Evidence from Eye Movements*. Journal of experimental psychology. Learning, memory, and cognition*.
  
- Hubbard, J., Harbaugh, W.T., Srivastava, S., Degras, D., & Mayr, U. (2016) A General Benevolence Dimension that Links Neural, Psychological, Economic, and Life-span Data on Altruistic Tendencies. *Journal of Experimental Psychology: General. 145*(10), 1351.
+ **Hubbard, J.**, Harbaugh, W.T., Srivastava, S., Degras, D., & Mayr, U. (2016) A General Benevolence Dimension that Links Neural, Psychological, Economic, and Life-span Data on Altruistic Tendencies. *Journal of Experimental Psychology: General. 145*(10), 1351.
  
- Hubbard, J., Kuhns, D., & Mayr, U. (in press). Is Conflict Adaptation due to Active Regulation or Passive Carry-Over? Evidence from Eye Movements. *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
+ **Hubbard, J.**, Kuhns, D., & Mayr, U. (in press). Is Conflict Adaptation due to Active Regulation or Passive Carry-Over? Evidence from Eye Movements. *Journal of Experimental Psychology: Learning, Memory, and Cognition*.
  
- Hubbard, J., Molapour, T., & Morsella, E. (2016). The Subjective Consequences of Experiencing Random Events. *International Journal of Psychological Studies*, *8*(2), 120.
+ **Hubbard, J.**, Molapour, T., & Morsella, E. (2016). The Subjective Consequences of Experiencing Random Events. *International Journal of Psychological Studies*, *8*(2), 120.
  
- Kikumoto, A., Hubbard, J., & Mayr, U. (2016). Dynamics of Task-set Carry-Over: Evidence from Eye-Movement Analyses. *Psychonomic Bulletin and Review*.
+ Kikumoto, A., **Hubbard, J.**, & Mayr, U. (2016). Dynamics of Task-set Carry-Over: Evidence from Eye-Movement Analyses. *Psychonomic Bulletin and Review*.
  
- Mayr, U., Kuhns, D., & Hubbard, J. (2014). Long-Term Memory and the Control of Attentional Control. *Cognitive Psychology*.
+ Mayr, U., Kuhns, D., & **Hubbard, J.** (2014). Long-Term Memory and the Control of Attentional Control. *Cognitive Psychology*.
  
- Hubbard, J., Rigby, T., Godwin, C., Gazzaley, A., & Morsella, E. (2013). Representations in working memory yield interference effects found with externally-triggered representations. *Acta Psychologica*, *142:1,* 127-135. 
+ **Hubbard, J.**, Rigby, T., Godwin, C., Gazzaley, A., & Morsella, E. (2013). Representations in working memory yield interference effects found with externally-triggered representations. *Acta Psychologica*, *142:1,* 127-135. 
  
 
-Hubbard, J., Gazzaley, A., & Morsella, E. (2011). Traditional response
+**Hubbard, J.**, Gazzaley, A., & Morsella, E. (2011). Traditional response
 interference effects from anticipated action outcomes: A response-effect
 compatibility paradigm. *Acta Psychologica*, *138*, 106-110.
  
- Morsella, E., Montemayor, C., Hubbard, J., & Zarolia, P. (2010). Conceptual knowledge: Grounded in sensorimotor states or a disembodied deus ex machina? *Behavioral and Brain Sciences*, *33:6,* 455-456.
+ Morsella, E., Montemayor, C., **Hubbard, J.**, & Zarolia, P. (2010). Conceptual knowledge: Grounded in sensorimotor states or a disembodied deus ex machina? *Behavioral and Brain Sciences*, *33:6,* 455-456.
  
- Morsella, E., & Hubbard, J. (2010). Controlled-Reflective Processes Arise from Integrative Action-Goal Selection in the Ventral Pathway. *European Journal of Personality, 24:5,* 404-422.
+ Morsella, E., & **Hubbard, J.** (2010). Controlled-Reflective Processes Arise from Integrative Action-Goal Selection in the Ventral Pathway. *European Journal of Personality, 24:5,* 404-422.
 
 **Posters and Presentations**
 
