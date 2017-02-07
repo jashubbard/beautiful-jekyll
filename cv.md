@@ -3,63 +3,32 @@ layout: page
 title:  CV
 ---
 
-**Jason Hubbard**
 
-Curriculum Vitae
+<h2 align='center'>Curriculum Vitae</h2>
 
-November 2016
+<h4 align='center'>Updated: February 2017</h4>
 
 **Education**
 
-2011 - Present PhD (in progress), Psychology, Cognitive Neuroscience\
-University of Oregon
+*  2011 - Present:  PhD (in progress), Psychology, Cognitive Neuroscience, University of Oregon
 
-2011 - 2012 Master of Science, Psychology, Cognitive Neuroscience\
-University of Oregon
+*  2011 - 2012:  Master of Science, Psychology, Cognitive Neuroscience, University of Oregon
 
-2007 - 2011 Master of Arts, Psychological Research
+*  2007 - 2011:  Master of Arts, Psychological Research, San Francisco State University
 
-San Francisco State University
-
-2001 - 2005 Bachelor of Arts, Cognitive Science
-
-Emphasis on Cognitive Neuroscience
-
-University of California, Berkeley
+*  2001 - 2005 Bachelor of Arts, Cognitive Science, University of California, Berkeley
 
 **Research Experience**
 
-September 2011 – Present *Graduate Researcher*
+September 2011 – Present *Graduate Researcher*, Cognitive Dynamics Lab, University of Oregon
 
-> Cognitive Dynamics Lab,
->
-> University of Oregon
+July 2009 – 2011 *Primary Investigator,* *Graduate Researcher*, Action and Consciousness Laboratory, San Francisco State University
 
-July 2009 – 2011 *Primary Investigator,*
+July 2010 – 2011 *Lab Manager *, Action and Consciousness Laboratory, San Francisco State University
 
-> *Graduate Researcher*
->
-> Action and Consciousness Laboratory,
->
-> San Francisco State University
+October 2007 - June 2009 *Research Assistant*,  Dr. Rosemarie Bowler, San Francisco State University
 
-July 2010 – 2011 *Lab Manager *
-
-> Action and Consciousness Laboratory,
->
-> San Francisco State University
-
-October 2007 - June 2009 *Research Assistant*
-
-> Dr. Rosemarie Bowler,
-
-San Francisco State University
-
-January 2006 - May 2008 *Research Assistant *
-
-> The Memory and Aging Center,
-
-University of California, San Francisco
+January 2006 - May 2008 *Research Assistant *, The Memory and Aging Center, University of California, San Francisco
 
 **Grants and Awards**
 
