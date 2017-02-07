@@ -9,8 +9,9 @@ title:  CV
 <h4 align='center'>Updated: February 2017</h4>
 
 **Education**
-|   |   |   |   |
-| --- | --- |
+
+|  year | degree | institution|
+| --- | --- | --- |
 | 2011 - Present | PhD (in progress) | Psychology, Cognitive Neuroscience, University of Oregon|
 |2011 - 2012 |  Master of Science | Psychology, Cognitive Neuroscience, University of Oregon |
 |2007 - 2011|  Master of Arts | Psychological Research, San Francisco State University |
