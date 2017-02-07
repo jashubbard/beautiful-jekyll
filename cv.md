@@ -10,7 +10,7 @@ title:  CV
 
 **Education**
 
-|  year | degree | institution|
+|      |     |    |
 | --- | --- | --- |
 | 2011 - Present | PhD (in progress) | Psychology, Cognitive Neuroscience, University of Oregon|
 |2011 - 2012 |  Master of Science | Psychology, Cognitive Neuroscience, University of Oregon |
