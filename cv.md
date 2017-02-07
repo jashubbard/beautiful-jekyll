@@ -10,33 +10,31 @@ title:  CV
 
 **Education**
 
-|      |     |    |
-| --- | --- | --- |
-| 2011 - Present | PhD (in progress) | Psychology, Cognitive Neuroscience, University of Oregon|
-|2011 - 2012 |  Master of Science | Psychology, Cognitive Neuroscience, University of Oregon |
-|2007 - 2011|  Master of Arts | Psychological Research, San Francisco State University |
-| 2001 - 2005 | Bachelor of Arts | Cognitive Science, University of California, Berkeley |
+|      |     |    |    |
+| --- | --- | --- | --- |
+| 2011 - Present | PhD (in progress) | Cognitive Neuroscience | University of Oregon|
+|2011 - 2012 |  Master of Science | Cognitive Neuroscience | University of Oregon |
+|2007 - 2011|  Master of Arts | Psychological Research | San Francisco State University |
+| 2001 - 2005 | Bachelor of Arts | Cognitive Science | University of California, Berkeley |
 
 **Research Experience**
 
-September 2011 – Present *Graduate Researcher*, Cognitive Dynamics Lab, University of Oregon
-
-July 2009 – 2011 *Primary Investigator,* *Graduate Researcher*, Action and Consciousness Laboratory, San Francisco State University
-
-July 2010 – 2011 *Lab Manager *, Action and Consciousness Laboratory, San Francisco State University
-
-October 2007 - June 2009 *Research Assistant*,  Dr. Rosemarie Bowler, San Francisco State University
-
-January 2006 - May 2008 *Research Assistant *, The Memory and Aging Center, University of California, San Francisco
+|      |     |    |    |
+| --- | --- | --- | --- |
+|September 2011 – Present | *Graduate Researcher* | Cognitive Dynamics Lab, University of Oregon |
+|July 2009 – 2011 | *Graduate Researcher* | Action and Consciousness Laboratory, San Francisco State University |
+|July 2010 – 2011 |  *Lab Manager * | Action and Consciousness Laboratory, San Francisco State University |
+|October 2007 - June 2009 | *Research Assistant* | Dr. Rosemarie Bowler, San Francisco State University |
+|January 2006 - May 2008  | *Research Assistant * | The Memory and Aging Center, University of California, San Francisco |
 
 **Grants and Awards**
 
-2015 Award Winner, 6^th^ Annual Graduate Research Forum, University of
+*   2015 Award Winner, 6th Annual Graduate Research Forum, University of
 Oregon.
 
-2013 - 2014 Henry V. Howe Scholarship. University of Oregon.
+*   2013 - 2014 Henry V. Howe Scholarship. University of Oregon.
 
-2012 University of Michigan Intensive fMRI Training Program. Travel and
+*   2012 University of Michigan Intensive fMRI Training Program. Travel and
 expenses grant.
 
 **Publications**
