@@ -151,25 +151,19 @@ Frontotemporal Dementia, San Francisco, CA.
 
 **Service**
 
-Ad Hoc Reviewer-- Psychological Science
+*   Ad Hoc Reviewer-- Psychological Science
 
-Ad Hoc Reviewer-- Experimental Brain Research
+*   Ad Hoc Reviewer-- Experimental Brain Research
 
-Ad Hoc Reviewer-- Psychonomic Bulletin & Review
+*   Ad Hoc Reviewer-- Psychonomic Bulletin & Review
 
 **Teaching**
 
-Spring 2016 *Instructor*
+*   Spring 2016 *Instructor*, Computing for the Behavioral Scientist
 
-Computing for the Behavioral Scientist
+*   Summer 2015 *Instructor*, Cognitive Psychology
 
-Summer 2015 *Instructor*
-
-Cognitive Psychology
-
-Summer 2013 *Instructor*
-
-Decision Making
+*   Summer 2013 *Instructor*, Decision Making
 
 **Software**
 
