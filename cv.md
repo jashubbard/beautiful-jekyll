@@ -23,9 +23,9 @@ title:  CV
 | --- | --- | --- | 
 |September 2011 – Present | *Graduate Researcher* | Cognitive Dynamics Lab, University of Oregon |
 |July 2009 – 2011 | *Graduate Researcher* | Action and Consciousness Laboratory, San Francisco State University |
-|July 2010 – 2011 |  *Lab Manager * | Action and Consciousness Laboratory, San Francisco State University |
+|July 2010 – 2011 |  *Lab Manager* | Action and Consciousness Laboratory, San Francisco State University |
 |October 2007 - June 2009 | *Research Assistant* | Dr. Rosemarie Bowler, San Francisco State University |
-|January 2006 - May 2008  | *Research Assistant * | The Memory and Aging Center, University of California, San Francisco |
+|January 2006 - May 2008  | *Research Assistant* | The Memory and Aging Center, University of California, San Francisco |
 
 **Grants and Awards**
 
