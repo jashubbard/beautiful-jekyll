@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-bigimg: 'path.jpg'
+bigimg: path.jpg
 ---
 
 Temp project page.
